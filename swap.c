@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int a = 34;
+    int a = 39;
     int b = 50;
 
     printf("a is %i\n", a);
